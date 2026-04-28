@@ -2,7 +2,7 @@ name: Run OneSignal script
 
 on:
   schedule:
-    - cron: "0 9 27,28 * *"
+    - cron: "0 9 25,26,27,28 * *"
   workflow_dispatch:
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
