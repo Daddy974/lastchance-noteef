@@ -1,0 +1,9 @@
+{
+  "name": "import-supabase",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.0.0",
+    "csv-parser": "^3.0.0"
+  }
+}
